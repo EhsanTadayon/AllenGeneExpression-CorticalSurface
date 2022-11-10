@@ -11,6 +11,6 @@ Note: T2-weighted MRIs were used to improve accuracy of pial surface reconstruct
 4. Circular ROIs were mapped to fsaverage space. 
 
 
-![ROIs](figures/right_hemi_rois.png)
+![ROIs](figures/right_rois_1cm.png)
 
 
