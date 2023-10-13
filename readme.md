@@ -1,4 +1,4 @@
-# Surface-based ROIs of Allen Human Gene Expression Atlas Samples in Individual and Common (fsaverage) space
+# Surface-based ROIs of Allen Human Gene Expression Atlas samples in individual and common (fsaverage) spaces
 1. Freesurfer V.6 pial/white matter cortical surface reconstructions using both T1-weight and T2-weighted MRIs for all 6 subjects. T2-weighted MRIs were used to improve accuracy of pial surface reconstruction.
 2. Cortical samples were extracted and they were mapped onto white matter surface.
 3. Circular surface-based region-of-interests (ROIs) with 5 mm radius were created for each sample and is available for download under ```<subject>/samples/labels_in_subject_space```)
